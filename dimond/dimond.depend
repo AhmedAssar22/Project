@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539562093 source:e:\studing\embedded-systems-diploma\porject\dimond\main.c
+	<stdio.h>
+	<stdlib.h>
+

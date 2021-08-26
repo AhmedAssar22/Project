@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539441036 source:e:\studing\embedded-systems-diploma\porject\aaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
